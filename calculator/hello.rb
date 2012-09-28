@@ -1,3 +1,3 @@
 class Hello
-  puts "Hello Ruby"
+  puts "Hello dear Ruby !"
 end
