@@ -14,7 +14,7 @@ class MyClass
 end
 
 ob = MyClass.new( "James Bond", "007" )
-puts( %Q$My name is #{ob.name} and my number is #{ob.number}$ )
+puts( %Q$My full name is #{ob.name} and my number is #{ob.number}$ )
 
 # new lines used as delimiters
 puts( %Q
