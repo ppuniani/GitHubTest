@@ -18,7 +18,7 @@ class Treasure < Thing
 end
 t1 = Treasure.new("Jewel Island","Island full of jewels",100);
 puts("T1: #{t1.to_s}");
-t1.name = "Diamond Island";
+t1.name = "Gold Island";
 t1.desc = "Island full of diamonds";
 t1.value = 200;
 puts("T1 (updated): #{t1.to_s}");
